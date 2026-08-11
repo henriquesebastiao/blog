@@ -1,9 +1,9 @@
 # 📝 Blog pessoal e Portfólio
 
-[![Deploy](https://github.com/henriquesebastiao/henriquesebastiao.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/henriquesebastiao/henriquesebastiao.com/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/henriquesebastiao/blog/actions/workflows/deploy.yml/badge.svg)](https://github.com/henriquesebastiao/blog/actions/workflows/deploy.yml)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhenriquesebastiao.com%2F)](https://henriquesebastiao.com)
-[![GitHub Release](https://img.shields.io/github/v/release/henriquesebastiao/henriquesebastiao.com?color=blue)](https://github.com/henriquesebastiao/henriquesebastiao.com/releases)
-[![GitHub License](https://img.shields.io/github/license/henriquesebastiao/henriquesebastiao.com?color=blue)](https://github.com/henriquesebastiao/henriquesebastiao.com/blob/main/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/henriquesebastiao/blog?color=blue)](https://github.com/henriquesebastiao/blog/releases)
+[![GitHub License](https://img.shields.io/github/license/henriquesebastiao/blog?color=blue)](https://github.com/henriquesebastiao/blog/blob/main/LICENSE)
 
 Link: [https://henriquesebastiao.com](https://henriquesebastiao.com)
 
