@@ -38,6 +38,7 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Henrique Sebastião
   email: contato@henriquesebastiao.com
+  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
     - https://henriquesebastiao.com
@@ -156,7 +157,17 @@ plugins:
 # Polyglot Settings
 languages: ["pt-BR", "en"]
 default_lang: "pt-BR"
-exclude_from_localization: ["assets", ".github", ".venv", ".wrangler", "scripts", "pyproject.toml", "poetry.lock", "links"]
+exclude_from_localization:
+  [
+    "assets",
+    ".github",
+    ".venv",
+    ".wrangler",
+    "scripts",
+    "pyproject.toml",
+    "poetry.lock",
+    "links",
+  ]
 parallel_localization: false
 lang_from_path: true
 
