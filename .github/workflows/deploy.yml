@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: website
-      url: https://henriquesebastiao.com/
+      url: https://blog.henriquesebastiao.com/
 
     steps:
       - name: Download site
@@ -29,4 +29,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy ./_site --project-name=henriquesebastiao --branch=main
+          command: pages deploy ./_site --project-name=blog --branch=main

@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://henriquesebastiao.com"
+url: "https://blog.henriquesebastiao.com"
 
 author: henriquesebastiao
 
@@ -41,7 +41,7 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://henriquesebastiao.com
+    - https://blog.henriquesebastiao.com
     - https://github.com/henriquesebastiao
     - https://www.linkedin.com/in/henriquesebastiao
     - https://bolha.us/@henriquesebastiao

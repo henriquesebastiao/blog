@@ -1,11 +1,11 @@
-# 📝 Blog pessoal e Portfólio
+# 📝 Blog pessoal
 
 [![Deploy](https://github.com/henriquesebastiao/blog/actions/workflows/deploy.yml/badge.svg)](https://github.com/henriquesebastiao/blog/actions/workflows/deploy.yml)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhenriquesebastiao.com%2F)](https://henriquesebastiao.com)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhenriquesebastiao.com%2F)](https://blog.henriquesebastiao.com)
 [![GitHub Release](https://img.shields.io/github/v/release/henriquesebastiao/blog?color=blue)](https://github.com/henriquesebastiao/blog/releases)
 [![GitHub License](https://img.shields.io/github/license/henriquesebastiao/blog?color=blue)](https://github.com/henriquesebastiao/blog/blob/main/LICENSE)
 
-Link: [https://henriquesebastiao.com](https://henriquesebastiao.com)
+Link: [https://blog.henriquesebastiao.com](https://blog.henriquesebastiao.com)
 
 A ideia aqui é ter um lugar sob o meu controle, onde eu possa compartilhar meus pensamentos, percepções e devaneios.
 Já há algum tempo em que venho cogitando a abordagem que mais me agradasse para escrever meus posts,
