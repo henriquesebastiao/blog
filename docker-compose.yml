@@ -1,7 +1,0 @@
-services:
-  site:
-    container_name: henrique-website
-    image: 'henrique-website:lastest'
-    build: .
-    ports:
-      - 80:80

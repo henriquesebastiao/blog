@@ -235,8 +235,6 @@ exclude:
   - rollup.config.js
   - "package*.json"
   - justfile
-  - Dockerfile
-  - docker-compose.yml
   - pyproject.toml
   - poetry.lock
   - links
