@@ -8,30 +8,40 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "cron"
+      cronjob: "0 1 1 * *"
+      timezone: "America/Sao_Paulo"
     assignees:
       - "henriquesebastiao"
   - package-ecosystem: "bundler"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "cron"
+      cronjob: "0 1 1 * *"
+      timezone: "America/Sao_Paulo"
     assignees:
       - "henriquesebastiao"
   - package-ecosystem: "docker"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "cron"
+      cronjob: "0 1 1 * *"
+      timezone: "America/Sao_Paulo"
     assignees:
       - "henriquesebastiao"
   - package-ecosystem: "docker-compose"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "cron"
+      cronjob: "0 1 1 * *"
+      timezone: "America/Sao_Paulo"
     assignees:
       - "henriquesebastiao"
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "cron"
+      cronjob: "0 1 1 * *"
+      timezone: "America/Sao_Paulo"
     assignees:
       - "henriquesebastiao"
